@@ -1,4 +1,4 @@
-Hello!! I'm Nicolas, and I'm a frontend developer currently located in Córdoba, Argentina.
+Hello!! I'm Nicolas, and I'm a fullstack developer currently located in Córdoba, Argentina.
 
 I started studying web development in 2020, with the covid pandemic. I fell in love with it because I see the potential of satisfying certain needs for customers.
 
